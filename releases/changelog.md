@@ -2,6 +2,8 @@
 ## 14/10/23
 ### What's Changed
 - Resolved an issue where changing the hue would inadvertently alter the character's color. Users can now change the hue without affecting the character's color.
+- The changelog URL has been updated to https://github.com/smiotaku/saeskin-zzz/blob/main/releases/changelog.md
+- The check for updates URL has been updated to  https://github.com/smiotaku/saeskin-zzz/releases
 
 ## 22/09/23
 ### What's Changed
