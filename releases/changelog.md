@@ -1,4 +1,8 @@
 # SAESKIN CHANGELOG
+## 14/10/23
+### What's Changed
+- Resolved an issue where changing the hue would inadvertently alter the character's color. Users can now change the hue without affecting the character's color.
+
 ## 22/09/23
 ### What's Changed
 - Modified the initial color scheme of the track info design for an improved visual appearance.
