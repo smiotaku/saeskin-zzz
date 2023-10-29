@@ -1,4 +1,12 @@
 # SAESKIN CHANGELOG
+# Release v1.4.115
+## 29/10/23
+### What's Changed
+- Added the capability to change cover colors for the track info.
+- Implemented the cover opacity feature for the track info.
+- Fine-tuned the Track Info text and cover color.
+- Adjusted the texture element.
+
 ## 14/10/23
 ### What's Changed
 - Resolved an issue where changing the hue would inadvertently alter the character's color. Users can now change the hue without affecting the character's color.
